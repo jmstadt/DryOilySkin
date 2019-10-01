@@ -16,4 +16,4 @@ RUN python app/server.py
 EXPOSE 5042
 
 CMD ["python", "app/server.py", "serve"]
-© 2019 GitHub, Inc.
+
