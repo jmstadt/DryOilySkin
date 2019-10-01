@@ -12,7 +12,7 @@ from fastai.vision import *
 export_file_url = 'https://www.dropbox.com/s/sgev0djh8k5kknl/export.pkl?dl=1'
 export_file_name = 'export.pkl'
 
-classes = ['oceans', 'lakes']
+classes = ['Dry Face','Oily Face']
 path = Path(__file__).parent
 
 app = Starlette()
