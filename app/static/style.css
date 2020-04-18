@@ -1,10 +1,6 @@
 body {
     background-color:rgba(181, 186, 182, 0.85);
-}
-
-[if Webkit]body
-{
-    background-color:rgba(181, 186, 182, 0.85);
+    -webkit-background-color:rgba(181, 186, 182, 0.85);
 }
 
 .no-display {
