@@ -2,11 +2,9 @@ body {
     background-color:rgba(181, 186, 182, 0.85);
 }
 
-@media screen and (-webkit-min-device-pixel-ratio:0) { 
-    body
-    {
-        background: #b8b5b6
-    }
+[if Webkit]body
+{
+    background-color:rgba(181, 186, 182, 0.85);
 }
 
 .no-display {
