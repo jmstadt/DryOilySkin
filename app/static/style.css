@@ -2,6 +2,11 @@ body {
     background-color:rgba(181, 186, 182, 0.85);
 }
 
+@media screen and (-webkit-min-device-pixel-ratio:0)
+{
+#safari { background-color:#eeeeee }
+}
+
 .no-display {
     display: none;
 }
