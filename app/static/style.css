@@ -1,5 +1,5 @@
 body {
-    background-color: #b8b5b6;
+    background-color:rgb(181, 186, 182);
 }
 
 .no-display {
@@ -38,7 +38,7 @@ body {
 .result-label {
     margin-top: 0.5em;
     padding: 10px;
-    font-size: 13px;
+    font-size: 23px;
 }
 
 button.choose-file-button {
@@ -52,12 +52,12 @@ button.choose-file-button {
 }
 
 button.analyze-button {
-    width: 200px;
-    height: 40px;
+    width: 400px;
+    height: 80px;
     border: solid 1px #7052CB;
     border-radius: 2px;
-    background-color: #7052CB;
-    font-size: 13px;
+    background-color:rgb(167, 93, 103);
+    font-size: 23px;
     color: #ffffff;
 }
 
